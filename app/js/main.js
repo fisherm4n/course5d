@@ -6,3 +6,4 @@ $(document).ready(function(){
     $(this).addClass("about__accordion-tab--active");
   });
 });
+
